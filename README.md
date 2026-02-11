@@ -23,7 +23,5 @@ I Am Currently Studying In GANDHINAGAR UNIVERSITY . <br>I Am A Full Stack / Soft
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
