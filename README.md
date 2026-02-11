@@ -22,3 +22,8 @@ I Am Currently Studying In GANDHINAGAR UNIVERSITY . <br>I Am A Full Stack / Soft
 [![](https://visitcount.itsvg.in/api?id=Manthanvinzuda007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
