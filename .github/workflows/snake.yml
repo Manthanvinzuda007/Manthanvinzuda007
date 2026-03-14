@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Doj raat ne automatically update thase
-  workflow_dispatch:        # Manual run pan kari shakso
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
