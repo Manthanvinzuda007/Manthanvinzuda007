@@ -159,11 +159,9 @@ I build across the full spectrum — from elegant frontends to robust backends, 
 
 ---
 
-<div align="center">
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Manthanvinzuda007&icon=0&color=0)
-
-<br/><br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manthanvinzuda007&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
+</p>
 
 ### 🙏 Thank You For Visiting My Profile !
 
