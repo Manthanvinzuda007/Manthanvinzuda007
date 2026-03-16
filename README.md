@@ -148,21 +148,6 @@ I build across the full spectrum — from elegant frontends to robust backends, 
 
 </div>
 
----
-
-## 🐍 My Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manthanvinzuda007/Manthanvinzuda007/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manthanvinzuda007/Manthanvinzuda007/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Manthanvinzuda007/Manthanvinzuda007/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
 
 ## ✍️ Dev Quote of the Day
 
